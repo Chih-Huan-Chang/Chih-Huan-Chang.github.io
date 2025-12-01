@@ -11,10 +11,10 @@ Before coming to Academia Sinica I was a master student at the National Taiwan U
 
 ## Research Interests
 
-- **Enumerative geometry:** Donaldson-Thomas invariants and its categorifications
+- **Enumerative geometry:** Donaldson--Thomas invariants and its categorifications
 
 ## Invited Talks
-- 2025 11, Motivic DT/PT correspondence on Calabi–Yau threefolds, Academia Sinica [website](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/posts/15652)
+- 2025 11, Motivic DT/PT correspondence on Calabi--Yau threefolds, Academia Sinica [website](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/posts/15652)
 
 ## Papers
 
