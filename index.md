@@ -10,7 +10,7 @@ I completed my B.S. and M.S. in Mathematics at National Taiwan University. My ma
 
 ## Research Interests
 
-- **Enumerative geometry:** Donaldson--Thomas invariants and its categorifications
+- **Enumerative geometry:** Donaldson--Thomas type invariants and its categorifications
 
 ## Invited Talks
 - 2025 Nov., Motivic DT/PT correspondence on Calabi--Yau threefolds, Academia Sinica [website](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/posts/15652)
@@ -18,6 +18,7 @@ I completed my B.S. and M.S. in Mathematics at National Taiwan University. My ma
 ## Papers
 ### Preprints
 {% include_relative _includes/publications.html %}
-
+<!--
 #### Organizer 
 - [Good Moduli space workshop](https://sites.google.com/view/good-moduli-space-camp/), 2025 Hualian
+-->
